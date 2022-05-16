@@ -22,7 +22,8 @@
 
 - 気になる方はこちらをクリック http://www.takushoku-u.ac.jp/
 :+1:
-## 食堂
+## 食堂　
+![食堂画像](https://www.takushoku-u.ac.jp/campus_life/images/student-cafeteria_grand-eterna-cafe_img_01.jpg)
 |ハンバーグ|カツカレー|ラーメン|
 |:---|:---:|---:|
 | 450| 480 | 280|
